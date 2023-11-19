@@ -1,0 +1,15 @@
+G:\My Drive\Finteq Assesment\Finteq_Assesment\bin\Debug\net6.0\Finteq_Assesment.exe
+G:\My Drive\Finteq Assesment\Finteq_Assesment\bin\Debug\net6.0\Finteq_Assesment.deps.json
+G:\My Drive\Finteq Assesment\Finteq_Assesment\bin\Debug\net6.0\Finteq_Assesment.runtimeconfig.json
+G:\My Drive\Finteq Assesment\Finteq_Assesment\bin\Debug\net6.0\Finteq_Assesment.dll
+G:\My Drive\Finteq Assesment\Finteq_Assesment\bin\Debug\net6.0\Finteq_Assesment.pdb
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.csproj.AssemblyReference.cache
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.AssemblyInfoInputs.cache
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.AssemblyInfo.cs
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.csproj.CoreCompileInputs.cache
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.dll
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\refint\Finteq_Assesment.dll
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.pdb
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\Finteq_Assesment.genruntimeconfig.cache
+G:\My Drive\Finteq Assesment\Finteq_Assesment\obj\Debug\net6.0\ref\Finteq_Assesment.dll
